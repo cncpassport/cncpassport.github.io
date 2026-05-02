@@ -6,7 +6,7 @@ NCPlayer and CNC Passport are proprietary projects. This repository contains pub
 
 ## Articles
 
-- [Nesting Tools: Browser-Based Sheet Nesting for Rectangular Layouts](articles/nesting-tools-browser-based-sheet-nesting-for-rectangular-layouts)
+- [Nesting Tools: Browser-Based Sheet Nesting for Rectangular Layouts](articles/nesting-tools-browser-based-sheet-nesting-for-rectangular-layouts.md)
 
 ## Links
 
