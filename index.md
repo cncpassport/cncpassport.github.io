@@ -12,4 +12,4 @@ NCPlayer and CNC Passport are proprietary projects. This repository contains pub
 
   - [CNC Passport](https://cncpassport.com/)
   - [NCPlayer](https://nc.cncpassport.com/)
-  - [Nesting Tools](https://cncpassport.com/your-nesting-tools-url/)
+  - [Nesting Tools](https://nest.cncpassport.com/)
