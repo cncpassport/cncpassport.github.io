@@ -7,6 +7,8 @@ categories: cnc-passport sheet-nesting dxf svg manufacturing
 
 Nesting Tools is a browser-based CNC Passport service for preparing sheet cutting layouts. The initial version focuses on rectangular sheets and rectangular parts, which covers many everyday production and training cases: furniture panels, blanks, cabinet elements, simple fronts, process trials, and layout exercises.
 
+![Nesting Tools sheet layout example](/images/nest-tools.png)
+
 The service is available at:
 
 https://nest.cncpassport.com/
