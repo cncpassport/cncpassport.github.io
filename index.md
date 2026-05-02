@@ -1,6 +1,6 @@
 ---
-layout: home
-title: CNC Passport Public Notes
+layout: page
+title: Public Notes
 ---
 
 Public documentation, examples, and technical notes for CNC Passport and NCPlayer.
