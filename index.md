@@ -6,11 +6,10 @@ NCPlayer and CNC Passport are proprietary projects. This repository contains pub
 
 ## Articles
 
-- [NCPlayer Inspection Mode: Linking CNC Toolpath Points to Source G-code](articles/ncplayer-inspection-mode.md)
-- [Why CNC Skills Verification Matters in Modern Manufacturing](articles/cnc-skills-verification.md)
-- [Browser-based G-code Simulation: Practical Notes from NCPlayer](articles/browser-based-gcode-simulation.md)
+- [Nesting Tools: Browser-Based Sheet Nesting for Rectangular Layouts](articles/nesting-tools-browser-based-sheet-nesting-for-rectangular-layouts)
 
-## Official links
+## Links
 
-- CNC Passport: https://cncpassport.com/
-- NCPlayer: https://nc.cncpassport.com/
+  - [CNC Passport](https://cncpassport.com/)
+  - [NCPlayer](https://nc.cncpassport.com/)
+  - [Nesting Tools](https://cncpassport.com/your-nesting-tools-url/)
