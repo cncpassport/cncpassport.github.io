@@ -1,3 +1,6 @@
 title: CNC Passport Public Notes
 description: Public documentation, examples, and technical notes for CNC Passport and NCPlayer.
 theme: minima
+
+header_pages:
+  - index.md
