@@ -1,4 +1,7 @@
-# CNC Passport Public Notes
+---
+layout: home
+title: CNC Passport Public Notes
+---
 
 Public documentation, examples, and technical notes for CNC Passport and NCPlayer.
 
@@ -10,6 +13,6 @@ NCPlayer and CNC Passport are proprietary projects. This repository contains pub
 
 ## Links
 
-  - [CNC Passport](https://cncpassport.com/)
-  - [NCPlayer](https://nc.cncpassport.com/)
-  - [Nesting Tools](https://nest.cncpassport.com/)
+- [CNC Passport](https://cncpassport.com/)
+- [NCPlayer](https://nc.cncpassport.com/)
+- [Nesting Tools](https://nest.cncpassport.com/)
