@@ -8,7 +8,7 @@ Public documentation, examples, and technical notes by Anton Laufer for CNC Pass
 NCPlayer and CNC Passport are proprietary projects. This repository contains public documentation, examples, and educational materials only. The application source code is not published here.
 
 ## Articles
-
+- [Shared G-code Review with NCPlayer Collaboration Mode](notes/shared-gcode-review-ncplayer-collaboration-mode/)
 - [Nesting Tools: Browser-Based Sheet Nesting for Rectangular Layouts](articles/nesting-tools-browser-based-sheet-nesting-for-rectangular-layouts.md)
 
 ## Official links
