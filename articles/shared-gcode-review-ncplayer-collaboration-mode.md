@@ -9,6 +9,8 @@ source: "https://cncpassport.com/blog/en/collaboration-mode-in-ncplayer/"
 
 NCPlayer collaboration mode is a workflow for reviewing a CNC control program in a shared session. Instead of exchanging screenshots, archived files, or separate program versions, several participants can look at the same G-code and discuss exact lines in context.
 
+![NCPlayer collaboration mode screenshot](https://cncpassport.com/blog/images/2026/04/ncplayer-collaboration-mode-1.png)
+
 This matters because CNC program problems are often not caused by one isolated command. The visible issue may depend on coordinate mode, tool compensation, active plane, arc interpretation, subprogram calls, macro variables, or jump logic.
 
 ## Typical Participants
