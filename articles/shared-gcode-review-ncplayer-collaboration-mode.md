@@ -32,4 +32,4 @@ Collaboration mode is not automatic approval for production. The final decision 
 Its role is to make technical communication clearer before that final decision is made.
 
 Source article:
-https://cncpassport.com/blog/en/collaboration-mode-in-ncplayer/
+[CNC Passport Blog](https://cncpassport.com/blog/en/collaboration-mode-in-ncplayer/)
