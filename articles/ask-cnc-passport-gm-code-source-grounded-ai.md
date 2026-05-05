@@ -39,5 +39,4 @@ This does not replace official machine documentation. It provides a source-aware
 
 - [Source article in CNC Passport Blog](https://cncpassport.com/blog/en/ask-cnc-passport-ai-answers-gm-codes-real-cnc-sources/)
 - [CNC Passport](https://cncpassport.com/)
-- [Ask CNC Passport](https://cncpassport.com/ask/)
-- [NCPlayer](https://nc.cncpassport.com/)
+- [Ask CNC Passport](https://ask.cncpassport.com/)
